@@ -1,0 +1,11 @@
+#cow {
+	display: block;
+    margin: 0 auto;
+    width: 40%;
+}
+
+#counter {
+	text-align: center;
+	margin-top: 40px;
+	font-size: 20px;
+}
